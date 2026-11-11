@@ -67,3 +67,9 @@ It is also possible to pass these settings directly via MSBuild command line, e.
 ```cmd
 msbuild /p:Platform=x64,Configuration=Release solution.slnx /p:PciswApiRuntimeLib=Static
 ```
+
+## License
+
+This library is licensed under the [MIT License](LICENSE).
+
+Adnacom Monitor software, required at run time for this API to work, is distributed separately under its own license terms.
