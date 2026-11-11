@@ -5,6 +5,8 @@
  * respectively, if available;
  * otherwise, provides a simple implementation based on `std::optional` as a replacement.
  * \date 2026.10.10
+ * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
  */
 #pragma once
 

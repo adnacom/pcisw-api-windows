@@ -1,6 +1,8 @@
 /**
  * \file `main.cpp`
  * Demo application for Adnacom Host Adapter API.
+ * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
  */
 #include <cstdlib>
 

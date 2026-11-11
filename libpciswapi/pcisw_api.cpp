@@ -2,6 +2,8 @@
  * \file pcisw_api.cpp
  * Adnacom PCI Host Adapter diagnostics API client implementation.
  * \date 2026.05.19
+ * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
  */
 #include "pcisw/pcisw_api.h"
 #include "pcisw_api_lrpc.h"

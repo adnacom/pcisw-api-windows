@@ -2,6 +2,7 @@
  * \file `pcisw_defs.h`
  * Adnacom PCIe Adapter diagnostics API data structures definition.
  * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
  */
 #pragma once
 
