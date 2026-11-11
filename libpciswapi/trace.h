@@ -1,3 +1,9 @@
+/*!
+ * \file `trace.h`
+ * Debug trace helpers for the Adnacom API library.
+ * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
+ */
 #pragma once
 
 #include <windows.h>

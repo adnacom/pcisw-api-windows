@@ -2,6 +2,7 @@
  * \file `pcisw_api.h`
  * Adnacom PCIe Adapter diagnostics API.
  * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
  */
 #pragma once
 

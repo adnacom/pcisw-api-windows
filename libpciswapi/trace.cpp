@@ -1,3 +1,9 @@
+/*!
+ * \file `trace.cpp`
+ * Debug trace helpers implementation for the Adnacom API library.
+ * \copyright Copyright 2026 Adnacom Inc.
+ * SPDX-License-Identifier: MIT
+ */
 #include "trace.h"
 
 #include <cstring>
